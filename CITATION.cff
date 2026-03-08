@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "QRAFT-RA: Quadrature-based Reproducible Action-Structured Framework with Regularized Action"
+version: "1.2"
+date-released: "2026-03-08"
+doi: "10.5281/zenodo.18911132"
+license: "CC-BY-4.0"
+authors:
+  - family-names: "Locatelli"
+    given-names: "Roberto"
+repository-code: "https://github.com/robertolocatelli81-dev/qraft-ra-deterministic-framework"
+url: "https://doi.org/10.5281/zenodo.18911132"
+keywords:
+  - Bell inequality
+  - contextual correlations
+  - no-signaling
+  - deterministic simulation
+  - CHSH
+  - variational framework
